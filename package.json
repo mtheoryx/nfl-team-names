@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/mtheoryx/nfl-team-names/issues"
   },
-  "homepage": "https://github.com/mtheoryx/nfl-team-names#readme"
+  "homepage": "https://github.com/mtheoryx/nfl-team-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
