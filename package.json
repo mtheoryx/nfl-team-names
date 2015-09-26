@@ -1,0 +1,27 @@
+{
+  "name": "nfl-team-names",
+  "version": "1.0.0",
+  "description": "Get random NFL team names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtheoryx/nfl-team-names.git"
+  },
+  "keywords": [
+    "random",
+    "nfl",
+    "team",
+    "teams",
+    "name",
+    "names"
+  ],
+  "author": "David R Poindexter III <drpoindexter@gmail.com> (http://vcard.davidrpoindexter.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtheoryx/nfl-team-names/issues"
+  },
+  "homepage": "https://github.com/mtheoryx/nfl-team-names#readme"
+}
