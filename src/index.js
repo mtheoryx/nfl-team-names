@@ -1,5 +1,5 @@
-var uniqueRandomArray = require('unique-random-array');
-var nflNames = require('./nfl-team-names.json');
+import uniqueRandomArray from 'unique-random-array';
+import nflNames from './nfl-team-names.json';
 var getRandomName = uniqueRandomArray(nflNames);
 
 module.exports = {

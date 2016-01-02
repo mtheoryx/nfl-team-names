@@ -77,3 +77,7 @@ crashlytics-build.properties
 /npm-debug.log
 /coverage
 node_modules
+
+# Project
+dist/index.js
+dist/nfl-team-names.json
